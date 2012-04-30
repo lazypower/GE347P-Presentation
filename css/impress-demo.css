@@ -394,6 +394,10 @@ a:focus {
 	width: 1000px;
 }
 
+#what {
+  width: 600px;
+}
+
 /*
     There is nothing really special about 'use the source, Luke' step, too,
     except maybe of the Yoda background.
@@ -404,7 +408,7 @@ a:focus {
     
     Just make sure you don't blindly copy this approach.
 */
-#source {
+#developers {
     width: 700px;
     padding-bottom: 300px;
     
