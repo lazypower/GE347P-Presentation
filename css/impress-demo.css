@@ -408,6 +408,11 @@ a:focus {
   width: 600px;
 }
 
+#wattext {
+	font-size: 60px;
+	margin-left: 15px;
+}
+
 /*
     There is nothing really special about 'use the source, Luke' step, too,
     except maybe of the Yoda background.
