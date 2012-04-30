@@ -100,6 +100,11 @@ video {
     --webkit-transform: translateZ(1px);
 }
 
+/* Small tag hack */
+small {
+  font-size: 14px;
+}
+
 /*
     Now let's bring some text styles back ...
 */
@@ -435,6 +440,25 @@ a:focus {
 
 #source q {
     font-size: 60px;
+}
+
+.whys ul li {
+  list-style: square;
+  font-size: 40px;
+}
+
+.whys ul ul li {
+  list-style: disc;
+  font-size: 20px;
+}
+
+.whys .logos {
+  width: 100px;
+  height: 100px;
+}
+
+#microsoft {
+  -webkit-transform: rotate(180deg);
 }
 
 /*
