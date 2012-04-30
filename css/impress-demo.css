@@ -94,6 +94,12 @@ body {
     background:         radial-gradient(rgb(240, 240, 240), rgb(190, 190, 190));    
 }
 
+
+/* Video CSS HACK */
+video {
+    --webkit-transform: translateZ(1px);
+}
+
 /*
     Now let's bring some text styles back ...
 */
