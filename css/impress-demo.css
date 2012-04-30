@@ -288,7 +288,7 @@ a:focus {
     Let's move to 'big thoughts' with centered text and custom font sizes.
 */
 #big {
-    width: 600px;
+    /*width: 600px;*/
     text-align: center;
     font-size: 60px;
     line-height: 1;
