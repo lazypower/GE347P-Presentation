@@ -389,6 +389,11 @@ a:focus {
     font-size: 78px;
 }
 
+.scribe{
+	font-size: 35px;
+	width: 1000px;
+}
+
 /*
     There is nothing really special about 'use the source, Luke' step, too,
     except maybe of the Yoda background.
